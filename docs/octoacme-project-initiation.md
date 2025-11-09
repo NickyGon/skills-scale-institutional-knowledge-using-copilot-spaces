@@ -19,6 +19,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+**Note:** See [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) and the [RACI Matrix](octoacme-role-raci.md) for detailed role definitions and responsibilities during project initiation.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -41,3 +43,5 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+**See also:** [Role Responsibility Template](templates/role-responsibility-template.md) to document project-specific role assignments.

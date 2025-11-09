@@ -48,3 +48,6 @@ Docs index
 - docs/octoacme-release-and-deployment.md
 - docs/octoacme-retrospective-and-continuous-improvement.md
 - docs/octoacme-roles-and-personas.md
+- docs/octoacme-role-raci.md
+- docs/templates/role-responsibility-template.md
+- docs/templates/role-onboarding-checklist.md
