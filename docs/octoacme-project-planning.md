@@ -16,6 +16,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+**Note:** Refer to the [RACI Matrix](octoacme-role-raci.md) to understand role responsibilities during planning activities. Use the [Role Onboarding Checklist](templates/role-onboarding-checklist.md) to onboard new team members to their roles.
+
 ## Backlog Item Template
 - Title:
 - Description:
